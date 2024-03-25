@@ -1,5 +1,5 @@
 # News-category-classification-with-supervised-learning
-DTSA 5798 Supervised Text Classification for Marketing Analytics Final Project
+Supervised Text Classification for Marketing Analytics Final Project
 
 ## Abstract
 
